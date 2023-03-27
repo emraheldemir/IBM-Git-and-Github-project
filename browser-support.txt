@@ -1,1 +1,2 @@
 Chrome, Firefox, Edge
+typo fixed
